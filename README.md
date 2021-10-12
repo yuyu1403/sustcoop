@@ -1,2 +1,3 @@
 # sustcoop
-Projet de stage BTS SIO de Nordine et Younes. Sous la direction de Sébastien Lamort
+Projet de premier stage BTS SIO de Younes. 
+Création d'une one page.
